@@ -1,1 +1,9 @@
+2. Implement OOP First principle - Encapsulation
 
+(a) Define a class Rectangle with data member’s length and width. Write methods to
+find perimeter and area of a rectangle. (class and object).
+
+(b) Create a class Account with data members name, acno and balance. Use appropriate methods to perform various operations like deposit, withdraw, balnce
+Check.
+
+(c) Create a class Student with appropriate data and methods using constructor.
